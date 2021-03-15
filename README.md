@@ -12,7 +12,7 @@
 const tiny = require("@ahuvia/tiny");
 
 tiny("So much space!");
-//=> "Somuchspace!"
+// => "Somuchspace!"
 
 tiny(1337);
 //=> Uncaught TypeError: Tiny wants a string!
