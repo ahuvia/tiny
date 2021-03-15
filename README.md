@@ -9,7 +9,7 @@
 ## Example
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@ahuvia/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
